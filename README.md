@@ -12,7 +12,7 @@ This project is a Student Management System designed to help manage student data
 
 1- Open Terminal in Run/Linux directory
 
-2- use command: ./StudentMS_run
+2- use command: ./main
 
 ## Developer Information
 
