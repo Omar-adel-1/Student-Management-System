@@ -11,6 +11,7 @@ This project is a Student Management System designed to help manage student data
 ## How to Run on Linux
 
 1- Open Terminal in Run/Linux directory
+
 2- use command: ./StudentMS_run
 
 ## Developer Information
